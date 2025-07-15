@@ -24,6 +24,7 @@ public class skipa {
             return ;
         }
 
+
         char ch = x.charAt(0);
 
         if(ch == 'a'){
